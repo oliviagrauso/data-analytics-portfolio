@@ -1,6 +1,5 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/chPqef
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 -- Project Retail ERD
 
@@ -75,4 +74,5 @@ REFERENCES "Product" ("ProductID");
 
 ALTER TABLE "Invoice" ADD CONSTRAINT "fk_Invoice_InvoiceDate" FOREIGN KEY("InvoiceDate")
 REFERENCES "Date" ("Date");
+
 

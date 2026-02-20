@@ -41,7 +41,8 @@ Even standard transactional data can generate strong strategic insights when ana
 
 ---
 
-![Dashboard Preview](customer-retention-rfm/images/executive-dash.png)
+![Dashboard Preview](customer-retention-rfm/images/executive-dash.png)  
+---
 ![Dashboard Preview](customer-retention-rfm/images/technical-dash.png)
 (https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 

@@ -1,48 +1,45 @@
-### Power BI Portfolio - Olivia Grauso
-#### This repository contains my Power BI projects.
+### Data Analytics Portfolio – Olivia Grauso
+
+**Contact**: LinkedIn [Olivia Grauso](https://www.linkedin.com/in/oliviagrauso/) Email: *olivia.grauso@outlook.it*
+
 ---
-## Be Data-Driven
+I approach data analysis with logic and structure, focusing on answering real business questions.  
+My work is based on clear analysis and organized methodology, delivering practical results.
 
-These days, everyone talks about being *data-driven*. It means using data to answer real business questions.
-Instead of supposing, we look at numbers and trends to understand things like:
-
-- Which region is selling the most?
-- What type of customer buys from us most often?
-- Which marketing campaigns are bringing in the most new customers?
-- Is there a version of our product that is not performing as expected?
-- Are we delivering orders on time across all regions?
-
-These answers come from data that the business already produces, data that is often not explored strategically.
-
-
-As the funny quote says: **"In God we trust. All others must bring data."** 
-
-This portfolio demonstrates how I utilize Power BI to transform raw data into clear dashboards and visual reports that enable businesses to make informed decisions.
-
-### Contact
-
-LinkedIn: [Olivia Grauso](https://www.linkedin.com/in/oliviagrauso/)
-
-Email: *olivia.grauso@outlook.it*
+This repository contains selected projects developed using SQL and Power BI.
 
 ---
 
-## 📦 Import Analysis – Exploratory Study
+## Customer Retention Prioritization based on RFM Analysis
 
-**Context**  
-The analysis was conducted based on an import dataset that did not include contracted values due to the sensitive nature of this information. The initial goal was to explore the available variables, such as transport mode, shipment quantity, carrier, deviations, and on-time deliveries, to identify operational patterns and possible inconsistencies.
+**Business Context and Objective**
 
-**Objective**  
-To demonstrate how an exploratory analysis can raise relevant hypotheses and questions that highlight the importance of including financial data in future studies, especially to understand cost variations and optimization opportunities.
+Assuming the retention team can act only on part of the customer base, which customers represent the highest risk and the highest value?  
+Since resources are limited, prioritization becomes essential.
 
-**Insights from the report**  
-- Maritime shipping usually costs less than air freight. Why do more than 80% of our imports use the air freight?  
-- If it is a supplier issue, can we verify that we are not being charged unnecessarily for this?  
-- If it is an internal issue due to short lead times, what is causing it?
+**Dataset and tools**
+- Online Retail II dataset (Kaggle) - standard retail transactional data
+- PostgreSQL (pgAdmin 4) for data transformation and modeling
+- QuickDBD for ERD diagram design
+- Power BI and DAX for visualization
 
-These are some of the questions to be discussed with the business team, ideally alongside cost data, to drive process optimization and save costs.
+**Methodology (SQL)**
+- Data cleaning and transformation - reviewed each column and identified inconsistencies
+- Customer-level aggregation
+- RFM scoring using NTILE(5) quintile-based segmentation
+- Segment classification
+- Revenue concentration analysis
 
-[![Import Dashboard](import_dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZDFjMzkwY2ItNDdiOS00ZDJmLWE4YzAtNzM3M2E4MjBhZmJhIiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9&embedImagePlaceholder=true)
+**Key Insights**
+- 22% of customers (Champions) generate ~70% of total revenue (Pareto principle confirmed)
+- 17% of customers are At Risk, representing 11% of revenue
+- The analysis supports data-driven retention actions
+  
+**Final Consideration**
+
+Even standard transactional data can generate strong strategic insights when analyzed with a structured and logical approach.
+
+[![Import Dashboard](import_dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 
 
 

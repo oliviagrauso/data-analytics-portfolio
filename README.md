@@ -1,4 +1,4 @@
-### Data Analytics Portfolio – Olivia Grauso
+## Data Analytics Portfolio – Olivia Grauso
 
 **Contact**: LinkedIn [Olivia Grauso](https://www.linkedin.com/in/oliviagrauso/) Email: *olivia.grauso@outlook.it*
 
@@ -10,12 +10,23 @@ This repository contains selected projects developed using SQL and Power BI.
 
 ---
 
-## Customer Retention Prioritization based on RFM Analysis
+### Customer Retention Prioritization (RFM Analysis)
 
 **Business Context and Objective**
 
 Assuming the retention team can act only on part of the customer base, which customers represent the highest risk and the highest value?  
-Since resources are limited, prioritization becomes essential.
+Since resources are limited, prioritization becomes essential.  
+
+---
+
+[View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)  
+
+![Dashboard Preview](customer-retention-rfm/images/executive-dash.png)  
+
+---
+![Dashboard Preview](customer-retention-rfm/images/technical-dash.png)  
+
+---
 
 **Dataset and tools**
 - Online Retail II dataset (Kaggle) - standard retail transactional data
@@ -37,14 +48,11 @@ Since resources are limited, prioritization becomes essential.
   
 **Final Consideration**
 
-Even standard transactional data can generate strong strategic insights when analyzed with a structured and logical approach.
+Even standard transactional data can generate strong strategic insights when analyzed with a structured and logical approach.  
+
+[View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 
 ---
-
-![Dashboard Preview](customer-retention-rfm/images/executive-dash.png)  
----
-![Dashboard Preview](customer-retention-rfm/images/technical-dash.png)
-(https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 
 
 

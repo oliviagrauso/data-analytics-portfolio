@@ -30,9 +30,9 @@ Since resources are limited, prioritization becomes essential.
 
 **Dataset and tools**
 - Online Retail II dataset (Kaggle) - standard retail transactional data
-- PostgreSQL (pgAdmin 4) for data transformation and modeling
-- QuickDBD for ERD diagram design
-- Power BI and DAX for visualization
+- PostgreSQL (pgAdmin 4) for data transformation and modeling   [View SQL Script](customer-retention-rfm/project_retail_1.sql)
+- QuickDBD for ERD diagram design  [View ERD diagram](customer-retention-rfm/customer_rfm-ERD.png)
+- Power BI and DAX for visualization  [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 
 **Methodology (SQL)**
 - Data cleaning and transformation - reviewed each column and identified inconsistencies

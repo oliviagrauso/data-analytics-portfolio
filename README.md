@@ -55,8 +55,6 @@ Since resources are limited, prioritization becomes essential.
 
 Even standard transactional data can generate strong strategic insights when analyzed with a structured and logical approach.  
 
-[View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
-
 ---
 
 

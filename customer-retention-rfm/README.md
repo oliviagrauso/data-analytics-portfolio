@@ -35,8 +35,8 @@ Since resources are limited, prioritization becomes essential.
 
 **Dataset and tools**
 - Online Retail II dataset (Kaggle) - standard retail transactional data
-- PostgreSQL (pgAdmin 4) for data transformation and modeling   [View SQL Script](customer-retention-rfm/project_retail_1.sql)
-- QuickDBD for ERD diagram design  [View ERD diagram](customer-retention-rfm/customer_rfm-ERD.png)
+- PostgreSQL (pgAdmin 4) for data transformation and modeling   [View SQL Script](project_retail_1.sql)
+- QuickDBD for ERD diagram design  [View ERD diagram](customer_rfm-ERD.png)
 - Power BI and DAX for visualization  [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
 
 **Methodology (SQL)**
@@ -55,7 +55,4 @@ Since resources are limited, prioritization becomes essential.
 
 Even standard transactional data can generate strong strategic insights when analyzed with a structured and logical approach.  
 
-[View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)
-
----
 ---

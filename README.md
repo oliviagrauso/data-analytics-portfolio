@@ -19,6 +19,11 @@ Since resources are limited, prioritization becomes essential.
 
 ---
 
+**2-Minute Project Presentation:**  
+[English](https://youtu.be/cY0CvPjxSI0) | [Italiano](https://youtu.be/k0VEmz4HmFs)
+
+---
+
 [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjEwNmM3NjUtZDE5Mi00ZDJiLThhNTAtOTExM2M1MzdhMDE2IiwidCI6ImEzZjA0ZTNkLTE2NWMtNDZiZC1hMzY4LWY0ZTI1NDhlMWIyZCJ9)  
 
 ![Dashboard Preview](customer-retention-rfm/images/executive-dash.png)  
